@@ -3,6 +3,7 @@ package gitknowledge;
 public class Main {
 
 	public static void main(String[] args) {
+		System.out.println("Added new line in june branch");
 		System.out.println("Prathap modified this line!!");
 		System.out.println("Hello Git!!");
 		System.out.println("Someone changed in Master!!");
