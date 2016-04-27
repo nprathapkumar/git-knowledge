@@ -7,7 +7,11 @@ public class Main {
 		System.out.println("Hello Git!!");
 		System.out.println("Hema added this line");
 		System.out.println("Prathap added fourth line");
+<<<<<<< HEAD
 		System.out.println("Prathap added fifth line");
+=======
+		System.out.println("Hema added fifth line");
+>>>>>>> refs/remotes/origin/pk186q
 	}
 
 }
